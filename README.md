@@ -1,4 +1,4 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://user-images.githubusercontent.com/102624697/169426526-93f6f553-664f-4662-9b44-c2c69bb50b49.png)
 
 
 ## 👋 Hi, I’m @MeganAlbee
