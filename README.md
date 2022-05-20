@@ -8,4 +8,9 @@ I am passionate about learning about all things data analytics and growing my sk
 
 - 👀 I’m interested in finding an internship in data science & analytics!
 
--:woman_technologist:	
+- 💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
+
+- 📖 Currently Reading: "Thinking fast and slow" by Daniel Kahneman
+
+- 💬 Favourite Quote:
+"What we know matters, but who we are matters more." - Breńe Brown
