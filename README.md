@@ -7,3 +7,5 @@ I am passionate about learning about all things data analytics and growing my sk
 - 🌱 Growing my skills in R, SQL, Python, Tableau, SAS, AWS, and more!  
 
 - 👀 I’m interested in finding an internship in data science & analytics!
+
+-:woman_technologist:	
