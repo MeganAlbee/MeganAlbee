@@ -1,4 +1,4 @@
-![This is an image](https://user-images.githubusercontent.com/102624697/169426526-93f6f553-664f-4662-9b44-c2c69bb50b49.png)
+![This is an image](https://user-images.githubusercontent.com/102624697/169426819-de7f8559-5d95-4f24-8eec-5ed4e337ad0f.svg)
 
 
 ## 👋 Hi, I’m @MeganAlbee
