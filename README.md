@@ -2,7 +2,7 @@
 
 
 ## 👋 Hi, I’m @MeganAlbee 
-I am passionate about learning about all things data analytics and growing my skillset through hands-on learning projects. I am currently working on showcasing a range of data projects, from working with a local homeless shelter to discover impacts on the length of stay to product experience analytics for a sizeable Missoula-based map application. 
+I am passionate about learning about all things data analytics and growing my skillset through hands-on learning projects. I am currently working on showcasing a range of data projects, from working with a local homeless shelter to discover impacts on the length of stay and a product experience analytics projectfor a sizeable Missoula-based map application. 
 
 - 🌱 Growing my skills in R, SQL, Python, Tableau, SAS, AWS, and more!  
 
@@ -10,7 +10,7 @@ I am passionate about learning about all things data analytics and growing my sk
 
 - 💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
 
-- 📖 Currently Reading: "Thinking fast and slow" by Daniel Kahneman
+- 📖 Currently Reading: "Have You Seen Me?" by Kate White
 
 - 💬 Favourite Quote:
 "What we know matters, but who we are matters more." - Breńe Brown
