@@ -6,7 +6,7 @@ I am passionate about learning about all things data analytics and growing my sk
 
 - 🌱 Growing my skills in Pyth, SQL, R, Tableau, AWS, and more!  
 
-- 👀 I’m interested in finding an internship in data science & analytics!
+- 👀 I’m interested in finding an job in data science & analytics!
 
 - 💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
 
