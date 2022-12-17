@@ -4,7 +4,7 @@
 ## 👋 Hi, I’m @MeganAlbee 
 I am passionate about learning about all things data analytics and growing my skillset through hands-on learning projects. I am currently working on showcasing a range of data projects, from working with a local homeless shelter to discover impacts on the length of stay and a product experience analytics project for a sizeable Missoula-based map application. 
 
-- 🌱 Growing my skills in Pyth, SQL, R, Tableau, AWS, and more!  
+- 🌱 Growing my skills in Python, SQL, R, Tableau, AWS, and more!  
 
 - 👀 I’m interested in finding an job in data science & analytics!
 
