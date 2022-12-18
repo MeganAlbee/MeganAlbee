@@ -2,19 +2,21 @@
 
 
 ## 👋 Hi, I’m @MeganAlbee 
-My goal in data science is to use my comprehensive knowledge of data, algorithms, and analytics to generate valuable insights and solutions.
+My goal in data science is to use my comprehensive knowledge of data, algorithms, and analytics to generate valuable insights and solutions. I am currently finishing my Masters of Science in Business Analytics from the University of Montana. In this program we tackle real-world business challenges and solve them with data science. 
 
-- 🔪 Sharpening my skills in Python, SQL, R, Tableau, and AWS  
+✏️ With a background in journalism from Cal Poly SLO, I found a path in data science where I bring together communication skills and analytics. Additionally, I have other minors in global politics and media arts, society and technology. Fun fact : I produced a short film that prermiered in the International Film Festival in San Luis Obispo CA. 
+
+🔪 Skills in Python, SQL, R, Tableau, and AWS  
 
   - Machine Learning 
 
   - Data Pipelines
 
-- 👀 I’m interested in finding an job in data science & analytics!
+👀 Looking for a job in data science & analytics!
 
-- 💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
+💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
 
-- 📖 Currently Reading: "Have You Seen Me?" by Kate White
+📖 Currently Reading: "Have You Seen Me?" by Kate White
 
-- 💬 Favourite Quote:
+
 
