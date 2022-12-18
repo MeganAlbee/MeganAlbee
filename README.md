@@ -16,7 +16,7 @@ My goal in data science is to use my comprehensive knowledge of data, algorithms
 
 💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
 
-❤️ Fun fact: I produced a short film that prermiered in the International Film Festival in San Luis Obispo CA. 
+❤️ Fun fact: I produced a short film that premiered at the International Film Festival in San Luis Obispo CA. 
 
 
 ⚡Fast Facts⚡
