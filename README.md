@@ -22,5 +22,5 @@ My goal in data science is to use my comprehensive knowledge of data, algorithms
 ⚡Fast Facts⚡
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MeganAlbee&show_icons=true"/>****
+<img src="https://github-readme-stats.vercel.app/api?username=MeganAlbee&show_icons=true"/>
 
