@@ -18,9 +18,3 @@ My goal in data science is to use my comprehensive knowledge of data, algorithms
 
 ❤️ Fun fact: I produced a short film that premiered at the International Film Festival in San Luis Obispo CA. 
 
-
-⚡Fast Facts⚡
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=MeganAlbee&show_icons=true"/>
-
