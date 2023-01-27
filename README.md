@@ -8,11 +8,13 @@ My goal in data science is to use my comprehensive knowledge of data, algorithms
 
 💻 Currently a graduate assistant for the College of Business at the University of Montana. 
 
-🔪 Skills in Python, SQL, R, Tableau, and AWS  
+🔪 Skills in Python, SQL, R, Tableau, and GoogleBigQuery  
 
   - Machine Learning 
 
-  - Data Pipelines
+  - Data Engineering 
+
+  - Storytelling with Data
 
 👀 Looking for a job in data science & analytics!
 
