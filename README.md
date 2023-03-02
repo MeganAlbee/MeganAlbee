@@ -16,8 +16,6 @@ My goal in data science is to use my comprehensive knowledge of data, algorithms
 
   - Storytelling with Data
 
-👀 Looking for a job in data science & analytics!
-
 💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
 
 ❤️ Fun fact: I produced a short film that premiered at the International Film Festival in San Luis Obispo CA. 
