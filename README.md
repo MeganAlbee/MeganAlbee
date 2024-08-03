@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png](https://github.com/MeganAlbee/Images/blob/main/banner.png)
+![alt text](https://github.com/MeganAlbee/Images/blob/main/banner.png?raw=true)
 
 
 ## 👋 Hi, I’m @MeganAlbee 
