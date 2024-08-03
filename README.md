@@ -2,20 +2,33 @@
 
 
 ## 👋 Hi, I’m @MeganAlbee 
-My goal in data science is to use my comprehensive knowledge of data, algorithms, and analytics to generate valuable insights and solutions. I am currently finishing my Masters of Science in Business Analytics from the University of Montana. In this program we tackle real-world business challenges and solve them with data science. 
+📈 I am a Digital Product Data Analyst who collaborates across teams to drive the development and optimization of digital features for apps and websites, enhancing user experiences and positively impacting the bottom line.
 
-✏️ With a background in journalism from Cal Poly SLO, I found a path in data science where I can bring together communication skills and analytics. Additionally, I have other minors in global politics and media arts, society and technology. 
+📚 Master's of Science in Business Analytics @ UMT | Bachelors of Science in Journalism + Double-minor is Global Politics and Media Arts, Society and Technology from Cal Poly SLO
 
-💻 Currently a graduate assistant for the College of Business at the University of Montana. 
+💻 Digital Product Analyst @ Target
 
-🔪 Skills in Python, SQL, R, Tableau, and GoogleBigQuery  
-
+Skills
+   - R 
+  - SQL (Hive)
+  - Python (pandas)
+  - GoogleBigQuery  
   - Machine Learning 
-
   - Data Engineering 
-
   - Storytelling with Data
+  - Hypothesis Testing
+🤠 Data Wrangling
 
-💎 Treasures: Gaming PC, my Bernese Mountain Dog: Paddington
+Other Skills
+- Amateur Birder
+- Coffee Enthusiast
+- Leave No Trace Outdoor Ethics
+- Neapolitan Pizza Perfectionist
+- Bernese Mountain Dog Tamer
+- Cozy Gamer (RDR2, Stardew Valley, Ghenshin Impact, BG3, Palword)
+
+💎 Treasures: Gaming PC
 
 ❤️ Fun fact: I produced a short film that premiered at the International Film Festival in San Luis Obispo CA. 
+
+🌿📂 This is an online esoteric garden, blooming with past and present projects
