@@ -1,4 +1,4 @@
-![This is an image]([banner.png))
+![alt text](http://url/to/img.png](https://github.com/MeganAlbee/Images/blob/main/banner.png)
 
 
 ## 👋 Hi, I’m @MeganAlbee 
