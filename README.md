@@ -1,4 +1,4 @@
-![This is an image]([https://user-images.githubusercontent.com/banner.png](https://github.com/MeganAlbee/Images/blob/main/banner.png))
+![This is an image]([banner.png))
 
 
 ## 👋 Hi, I’m @MeganAlbee 
